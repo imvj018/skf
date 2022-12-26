@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/amiko_bold</item>
+        <item>@font/biorhyme_bold</item>
+        <item>@font/im_fell_dw_pica_sc</item>
+        <item>@font/im_fell_english</item>
+    </array>
+</resources>
